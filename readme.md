@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>Luiz Carlos!</strong>
+## 💜 Olá! Meu nome é <strong>Luiz Carlos!</strong>
 
 > Faça uma breve aprensentação sobre você e a sua área.
 
