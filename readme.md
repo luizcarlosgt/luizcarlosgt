@@ -25,7 +25,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizcarlosgt&show_icons=true)
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlosgt&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlosgt&hide_langs_below=1" />
 </a>
 
 
