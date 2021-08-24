@@ -1,15 +1,21 @@
-## 💜 Olá! Meu nome é <strong>Luiz Carlos.</strong>
+### Oi devs 👋
+
+Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-> Faça uma breve aprensentação sobre você e a sua área.
+```kotlin
+object **LUIZ CARLOS** {
+ val name = "LUIZ CARLOS DEV"
+ val acknowledgements = "PHP"
+ 
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = listOf("Html", "Python", "JavaScript", "Laravel", "ElectronJs") 
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
-
-<br><br><br>
-----
+}
+```
 
 
 ## 🚀 Minhas Skills
@@ -50,5 +56,10 @@
 🏡 [website]http://devplay.ga/[website] **|** 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
+<<<<<<< HEAD
 📷 [instagram]https://www.instagram.com/devplaybr/[instagram] **|** 
 👔 [linkedin]https://www.linkedin.com/in/luiz-carlos-820b9b217/[linkedin]
+=======
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+>>>>>>> 67ff47cfc3bb18770d4bb01e31a0091b975f4fbc
