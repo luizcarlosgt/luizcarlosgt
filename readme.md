@@ -47,8 +47,8 @@
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
+🏡 [website]http://devplay.ga/[website] **|** 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+📷 [instagram]https://www.instagram.com/devplaybr/[instagram] **|** 
+👔 [linkedin]https://www.linkedin.com/in/luiz-carlos-820b9b217/[linkedin]
