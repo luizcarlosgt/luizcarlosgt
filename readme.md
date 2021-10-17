@@ -4,7 +4,7 @@
 
 > Faça uma breve aprensentação sobre você e a sua área.
 
-🔭 Sou programador FullStack. Trabalho principalmente com Laravel no back-end.
+🔭 Sou programador FullStack. Trabalho principalmente com Laravel, Vue, HTML e CSS.
 
 💬 Escolhi área da programação porque amo aprender e criar. A programação me ensinou a ser criativo e proativo. O bom programador é aquele que entende que o bug é parte do jogo. Que programar não é só evitar problemas e sim ser bom solucionador deles.
 
