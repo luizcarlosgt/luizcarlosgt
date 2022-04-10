@@ -25,13 +25,12 @@
 ## ⭐ Informações sobre minha conta GitHub
     
 <a href="https://github.com/luizcarlosgt">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=luizcarlosgt&show_icons=true&theme=dracula" />
+<img align="center" height="250px" src="https://github-readme-stats.vercel.app/api?username=luizcarlosgt&show_icons=true&theme=dracula" />
 </a>
 
-<br><br>
 
 <a href="https://github.com/luizcarlosgt">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlosgt&theme=dracula&hide_langs_below=1" />
+<img align="center" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlosgt&theme=dracula&hide_langs_below=1" />
 </a>
 
 
@@ -42,24 +41,16 @@
 [linkedin]: https://www.linkedin.com/in/luiz-carlos-820b9b217/
 <br>
 
-#### Rede Sociais!
-
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
-<br>
-
-
-#### Contato :
-
-<p align="left">
-  <a href="mailto:luizcarlosgt2014@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=(mailto:luizcarlosgt2014@gmail.com" /></a>
-
-  <a href="https://www.linkedin.com/in/luiz-carlos-820b9b217/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-820b9b217/" /></a>
-
-  <a href="https://api.whatsapp.com/send?phone=5568992224057" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55992224057"/></a>
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
