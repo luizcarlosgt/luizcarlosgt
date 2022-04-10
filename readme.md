@@ -25,12 +25,12 @@
 ## ⭐ Informações sobre minha conta GitHub
     
 <a href="https://github.com/luizcarlosgt">
-<img align="center" height="250px" src="https://github-readme-stats.vercel.app/api?username=luizcarlosgt&show_icons=true&theme=dracula" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=luizcarlosgt&show_icons=true&theme=dracula" />
 </a>
 
 
 <a href="https://github.com/luizcarlosgt">
-<img align="center" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlosgt&theme=dracula&hide_langs_below=1" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlosgt&theme=dracula&hide_langs_below=1" />
 </a>
 
 
