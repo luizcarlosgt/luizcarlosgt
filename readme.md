@@ -24,15 +24,14 @@
 
 ## ⭐ Informações sobre minha conta GitHub
     
-<a href="https://github.com/luizcarlosgt">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=luizcarlosgt&show_icons=true&theme=dracula" />
-</a>
-
-
-<a href="https://github.com/luizcarlosgt">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlosgt&theme=dracula&hide_langs_below=1" />
-</a>
-
+<div align='center'>
+    <a href="https://github.com/luizcarlosgt">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizcarlosgt&show_icons=true&theme=dracula" />
+    </a>
+    <a href="https://github.com/luizcarlosgt">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlosgt&theme=dracula&hide_langs_below=1&layout=compact" />
+    </a>
+</div>
 
 [website]: http://devplay.ga/
 [twitter]: https://twitter.com/SEUTWITTER
