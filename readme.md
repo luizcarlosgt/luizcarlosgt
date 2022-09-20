@@ -1,6 +1,6 @@
 ## 💜 Olá! Meu nome é <strong>Luiz Carlos.</strong>
 
-<img align="right" width="300" src="https://www.cloudways.com/wp-content/uploads/2018/09/best-php-hosting.png" />
+<img align="right" width="300" src="https://www.bizzmine.com/images/articles/careers/Front-end-developer.png" />
 
 > Seja muito bem vindo ao meu perfil do GitHub.
 
