@@ -27,10 +27,10 @@
     
 <div align='center'>
     <a href="https://github.com/luizcarlosgt">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizcarlosgt&show_icons=true&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizcarlosgt&show_icons=true&theme=defalt" />
     </a>
     <a href="https://github.com/luizcarlosgt">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlosgt&theme=dracula&hide_langs_below=1&layout=compact" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlosgt&theme=defalt&hide_langs_below=1&layout=compact" />
     </a>
 </div>
 
