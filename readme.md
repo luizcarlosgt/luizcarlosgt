@@ -1,6 +1,6 @@
 ## 💜 Olá! Meu nome é <strong>Luiz Carlos.</strong>
 
-<img align="right" width="300" src="https://www.bizzmine.com/images/articles/careers/Front-end-developer.png" />
+<img align="right" width="250" height="200" src="https://cdn-icons-png.flaticon.com/512/2721/2721264.png" />
 
 > Seja muito bem vindo ao meu perfil do GitHub.
 
@@ -27,10 +27,10 @@
     
 <div align='center'>
     <a href="https://github.com/luizcarlosgt">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizcarlosgt&show_icons=true&theme=defalt" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizcarlosgt&show_icons=true&theme=cobalt" />
     </a>
     <a href="https://github.com/luizcarlosgt">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlosgt&theme=defalt&hide_langs_below=1&layout=compact" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlosgt&theme=cobalt&hide_langs_below=1&layout=compact" />
     </a>
 </div>
 
