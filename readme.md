@@ -1,15 +1,16 @@
-## 💜 Olá! Meu nome é <strong>Luiz Carlos.</strong>
+## <strong>Hello World ☕</strong> 
 
 <img align="right" width="250" height="200" src="https://cdn-icons-png.flaticon.com/512/2721/2721264.png" />
 
 > Seja muito bem vindo ao meu perfil do GitHub.
 
-🔭 Sou programador FullStack. Trabalho principalmente com Laravel, Vue, HTML e CSS.
+Sou programador FullStack. Trabalho principalmente com Laravel, Vue, HTML e CSS.
 
-💬 Escolhi área da programação porque amo aprender e criar. A programação me ensinou a ser criativo e proativo. O bom programador é aquele que entende que o bug é parte do jogo. Que programar não é só evitar problemas e sim ser bom solucionador deles.
+Escolhi área da programação porque amo aprender e criar. A programação me ensinou a ser criativo e proativo. O bom programador é aquele que entende que o bug é parte do jogo. Que programar não é só evitar problemas e sim ser bom solucionador deles.
 
+<br>
 
-## 🚀 Minhas Skills
+## Minhas Skills 🚀
 
 <!-- <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code> -->
 <code><img height="36" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/github-bartzaalberg-php-tester-icon.png" alt="php"/></code>
@@ -20,10 +21,12 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
-
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+<br>
+
+
+##  Informações sobre minha conta GitHub ⭐
     
 <div align='center'>
     <a href="https://github.com/luizcarlosgt">
