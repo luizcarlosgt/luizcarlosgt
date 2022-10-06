@@ -1,6 +1,6 @@
 ## <strong>Hello World ☕</strong> 
 
-<img align="right" width="250" height="200" src="https://cdn-icons-png.flaticon.com/512/2721/2721264.png" />
+<img align="right" width="250" height="200" src="https://pedropachecodev.com.br/wp-content/uploads/2021/12/developer1.png" />
 
 > Seja muito bem vindo ao meu perfil do GitHub.
 
